@@ -1,4 +1,4 @@
-# Blog Title :link: https://Spring2022abcjk.github.io/Glog 
+# Petal Blogs :link: https://b.devhub.v6.navy 
 ### :page_facing_up: [1](https://Spring2022abcjk.github.io/Glog/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
